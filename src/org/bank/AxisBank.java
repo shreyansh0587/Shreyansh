@@ -10,7 +10,8 @@ public class AxisBank extends BankInfo{
 		AxisBank a=new AxisBank();
 		a.deposit();
 		a.saving();
-a.fixed();				
+a.fixed();	
+System.out.println("Working on Durga branch");
 	}
 
 }
