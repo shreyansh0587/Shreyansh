@@ -10,7 +10,10 @@ public class AxisBank extends BankInfo{
 		AxisBank a=new AxisBank();
 		a.deposit();
 		a.saving();
-a.fixed();				
+a.fixed();	
+//File commited to git
+System.out.println("file commited to git");
+
 	}
 
 }
